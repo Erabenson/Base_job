@@ -4,4 +4,4 @@
 </body>
 <h2>Hurray... It is working!!!</h2>
 </html>
-<body style="background-color:grey;">
+<body style="background-color:blue;">
